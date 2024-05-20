@@ -1,0 +1,1 @@
+Create a graph showing the first point
