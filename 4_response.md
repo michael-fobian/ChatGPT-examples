@@ -1,0 +1,1 @@
+Here's the graph showing the energy consumption trends from 2015H1 to 2023H2 for all five consumption categories. The steady increase in energy consumption across all categories is clearly illustrated, reflecting the overall growth trend.
